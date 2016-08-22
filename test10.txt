@@ -1,2 +1,2 @@
 ovo je pocetak gita
-ovo je prvi red gita
+ovo je drugi red gita
